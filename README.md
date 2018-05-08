@@ -1,8 +1,17 @@
 # nzatr-blocklist
-Aotearoa Twitter 'Alt'-Right Block List
-There exists a group of NZ Twitter users who are, in my opinion, prone to fake-news, abusive behaviour, defamation, doxxing, harrassment and other activities which many may want to avoid. 
+Aotearoa Twitter 'Alt'-Right Block List. People on this list have been blocked because I wished to remoev the following things from my Twitter experience: 
 
-With that in mind here's what I called the Aotearoa Twitter Right Block List.
+- Rumour spreading
+- Fake news spreading
+- Climate-change denial
+- Men's rights activism 
+- Harassment
+- Doxxing
+- General abuse and nastiness. 
+
+It is entirely subjective. Not every one on this list is guilt of all of the above. It is not a case of blocking anyone that holds alternative views.
+
+With that said, here's the Aotearoa Twitter 'Alt'-Right Block List.
 
 Download the most recent CSV and follow the ‘how to import someone’s block list’ instructions from here: 
 
