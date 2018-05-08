@@ -1,5 +1,5 @@
 # nzatr-blocklist
-Aotearoa Twitter 'Alt'-Right Block List. People on this list have been blocked because I wished to remoev the following things from my Twitter experience: 
+Aotearoa Twitter 'Alt'-Right Block List. People on this list have been blocked because I wished to remove the following things from my Twitter experience: 
 
 - Rumour spreading
 - Fake news spreading
@@ -7,9 +7,10 @@ Aotearoa Twitter 'Alt'-Right Block List. People on this list have been blocked b
 - Men's rights activism 
 - Harassment
 - Doxxing
+- Trolling
 - General abuse and nastiness. 
 
-It is entirely subjective. Not every one on this list is guilt of all of the above. It is not a case of blocking anyone that holds alternative views.
+It is entirely subjective. Not every one on this list is guilty of all of the above. It is not a case of blocking anyone that holds alternative views. I am not claiming that anyone on this list is guilty of anything. 
 
 With that said, here's the Aotearoa Twitter 'Alt'-Right Block List.
 
