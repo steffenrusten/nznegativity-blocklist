@@ -1,4 +1,4 @@
-# nzatr-blocklist
+# Aotearoa Negative Tweeters Block List
 Aotearoa Negative Tweeters Block List. People on this list have been blocked because I wished to remove the following things from my Twitter experience: 
 
 - Rumours
@@ -30,8 +30,8 @@ It is entirely subjective. Not every one on this list is guilty of all of the ab
 
 ## Questions, feedback, appeals, etc.
 
-**Questions:** [@steffenrusten](https://twitter.com/steffenrusten)
-**Feedback:** leave a comment on the github. 
-**Appeals:** You're on here for a reason so please leave me alone
+- **Questions:** [@steffenrusten](https://twitter.com/steffenrusten)
+- **Feedback:** leave a comment on the github. 
+- **Appeals:** You're on here for a reason so please leave me alone
 
 Happy Tweeting.
