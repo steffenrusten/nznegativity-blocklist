@@ -12,7 +12,7 @@ Aotearoa Negative Tweeters Block List. People on this list have been blocked bec
 
 It is entirely subjective. Not every one on this list is guilty of all of the above. It is not a case of blocking anyone that holds alternative views. I am not claiming that anyone on this list is guilty of anything. 
 
-##How to use the block list
+## How to use the block list
 
 [Download the CSV](https://github.com/nzstefinitely/nzatr-blocklist/blob/master/nzatr_blocklist_20180509.csv) and follow Twitter's ['How to import someone else’s block list'](https://help.twitter.com/en/using-twitter/advanced-twitter-block-options) instructions: 
 
